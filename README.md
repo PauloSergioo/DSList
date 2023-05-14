@@ -29,7 +29,7 @@ para modelar esses relacionamentos.
 
 Por fim, estruturei um ambiente local com Docker Compose, foi realizado um processo de homologação local e processo de deploy com CI/CD, configuração de CORS,
 design e implementação de endpoints, incluindo verbos HTTP e idempotência. Tudo isso foi aplicado em um projeto de backend desenvolvido em Java com Spring para uma lista
-de jogos, incluindo funções para buscar todos os jogos, buscar os jogos por id, buscar as listas por categoria e mover os jogos de posição.
+de jogos, incluindo funções para buscar todos os jogos, buscar os jogos por id, buscar as listas por categoria e mover os jogos de posição de acordo com o corpo da requisição.
 
 ##
 
